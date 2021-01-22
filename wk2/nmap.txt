@@ -1,0 +1,43 @@
+root@cyberecurity:~# nmap 143.110.253.88                                                                                Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 16:46 UTC
+Nmap scan report for 143.110.253.88
+Host is up (0.0000060s latency).
+Not shown: 997 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+Nmap done: 1 IP address (1 host up) scanned in 11.69 seconds
+
+
+
+root@cyberecurity:~# nmap -p 45 143.110.253.88
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 16:47 UTC
+Nmap scan report for 143.110.253.88
+Host is up (0.00013s latency).
+
+PORT   STATE  SERVICE
+45/tcp closed mpm
+Nmap done: 1 IP address (1 host up) scanned in 11.64 seconds
+
+
+
+
+Nmap done: 1 IP address (1 host up) scanned in 11.64 seconds
+root@cyberecurity:~# nmap -p 100-150 143.110.253.88                                                                                                                     Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 16:48 UTC
+Nmap scan report for 143.110.253.88
+Host is up (0.0000070s latency).
+All 51 scanned ports on 143.110.253.88 are closed
+Nmap done: 1 IP address (1 host up) scanned in 11.49 seconds
+
+
+
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2021-01-22 16:49 UTC
+Nmap scan report for 143.110.253.88
+Host is up (0.0000070s latency).
+Not shown: 97 closed ports
+PORT   STATE SERVICE
+22/tcp open  ssh
+25/tcp open  smtp
+80/tcp open  http
+Nmap done: 1 IP address (1 host up) scanned in 11.09 seconds

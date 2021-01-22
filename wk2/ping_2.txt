@@ -1,0 +1,12 @@
+C:\Users\Karti>ping 143.110.253.88
+
+Pinging 143.110.253.88 with 32 bytes of data:
+Reply from 143.110.253.88: bytes=32 time=66ms TTL=51
+Reply from 143.110.253.88: bytes=32 time=66ms TTL=51
+Reply from 143.110.253.88: bytes=32 time=65ms TTL=51
+Reply from 143.110.253.88: bytes=32 time=62ms TTL=51
+
+Ping statistics for 143.110.253.88:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 62ms, Maximum = 66ms, Average = 64ms

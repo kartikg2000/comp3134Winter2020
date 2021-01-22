@@ -1,0 +1,2 @@
+root@cyberecurity:~# traceroute 143.110.253.88                                                                          traceroute to 143.110.253.88 (143.110.253.88), 30 hops max, 60 byte packets
+ 1  143.110.253.88 (143.110.253.88)  0.028 ms  0.008 ms  0.010 ms

@@ -1,0 +1,374 @@
+FACEBOO.COM
+
+NameRegistrarSafe, LLC
+Whois Serverwhois.registrarsafe.com
+Referral URLhttps://www.registrarsafe.com
+StatusclientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Important Dates
+Expires On2028-03-30
+Registered On1997-03-29
+Updated On2020-03-10
+Name Servers
+A.NS.FACEBOOK.COM129.134.30.12
+B.NS.FACEBOOK.COM129.134.31.12
+C.NS.FACEBOOK.COM185.89.218.12
+D.NS.FACEBOOK.COM185.89.219.12
+Similar Domains
+faceb%c3%b6ok.com | faceb--k.com | faceb--kbasedbiz.com | faceb--l.com | faceb-activate.com | faceb-color.co.cc | faceb-design.com | faceb-error.com | faceb-junkie.com | faceb-ok.com | faceb-ook.com | faceb-server.com | faceb-survey.com | faceb.biz | faceb.br | faceb.cc | faceb.chat | faceb.co | faceb.co.il | faceb.co.in |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Registrant Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Administrative Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Technical Contact Information:
+NameDomain Admin
+OrganizationFacebook, Inc.
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Fax+1.6505434800
+Email
+
+Information Updated: 2021-01-22 14:47:52
+
+YOUTUBE.COM
+
+NameMarkMonitor, Inc.
+Whois Serverwhois.markmonitor.com
+Referral URLhttp://www.markmonitor.com
+StatusclientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Important Dates
+Expires On2022-02-14
+Registered On2005-02-15
+Updated On2021-01-14
+Name Servers
+ns1.google.com216.239.32.10
+ns2.google.com216.239.34.10
+ns3.google.com216.239.36.10
+ns4.google.com216.239.38.10
+Similar Domains
+youtu-99soudan.com | youtu-bank.com | youtu-be.com | youtu-be.net | youtu-be.site | youtu-be.tv | youtu-bemp3.com | youtu-bemp3.org | youtu-box.com | youtu-bu.net | youtu-bu.xyz | youtu-byoki.com | youtu-care-studio.net | youtu-corset.com | youtu-cushion.com | youtu-driver.com | youtu-edu.com | youtu-hie-seitai.com | youtu-info.com | youtu-japan.com |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Domain Name: youtube.com
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2021-01-14T02:36:28-0800
+Creation Date: 2005-02-14T21:13:12-0800
+Registrar Registration Expiration Date: 2022-02-14T00:00:00-0800
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.2083895770
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: serverUpdateProhibited (https://www.icann.org/epp#serverUpdateProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: serverDeleteProhibited (https://www.icann.org/epp#serverDeleteProhibited)
+Registrant Organization: Google LLC
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Admin Organization: Google LLC
+Admin State/Province: CA
+Admin Country: US
+Admin Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Tech Organization: Google LLC
+Tech State/Province: CA
+Tech Country: US
+Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/youtube.com
+Name Server: ns1.google.com
+Name Server: ns4.google.com
+Name Server: ns3.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2021-01-21T02:24:30-0800 <<<
+
+For more information on WHOIS status codes, please visit:
+  https://www.icann.org/resources/pages/epp-status-codes
+
+If you wish to contact this domain’s Registrant, Administrative, or Technical
+contact, and such email address is not visible above, you may do so via our web
+form, pursuant to ICANN’s Temporary Specification. To verify that you are not a
+robot, please enter your email address to receive a link to a page that
+facilitates email communication with the relevant contact(s).
+
+Web-based WHOIS:
+  https://domains.markmonitor.com/whois
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send
+your request and the reasons for your request to 
+and specify the domain name in the subject line. We will review that request and
+may ask for supporting documentation and explanation.
+
+The data in MarkMonitor’s WHOIS database is provided for information purposes,
+and to assist persons in obtaining information about or related to a domain
+name’s registration record. While MarkMonitor believes the data to be accurate,
+the data is provided "as is" with no guarantee or warranties regarding its
+accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+  (1) allow, enable, or otherwise support the transmission by email, telephone,
+or facsimile of mass, unsolicited, commercial advertising, or spam; or
+  (2) enable high volume, automated, or electronic processes that send queries,
+data, or email to MarkMonitor (or its systems) or the domain name contacts (or
+its systems).
+
+MarkMonitor reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by this policy.
+
+MarkMonitor Domain Management(TM)
+Protecting companies and consumers in a digital world.
+
+Visit MarkMonitor at https://www.markmonitor.com
+Contact us at +1.8007459229
+In Europe, at +44.02032062220
+--
+
+
+Information Updated: 2021-01-21 10:30:45
+
+
+BLACKBOARD.COM
+
+Registrar Info
+NameCSC CORPORATE DOMAINS, INC.
+Whois Serverwhois.corporatedomains.com
+Referral URLwww.cscprotectsbrands.com
+StatusclientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited
+serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited
+serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited
+Important Dates
+Expires On2021-07-15
+Registered On1999-04-09
+Updated On2020-10-20
+Name Servers
+ns1.blackboard.com69.196.241.70
+ns2.blackboard.com69.196.242.220
+ns3.blackboard.com46.183.242.150
+Similar Domains
+black%20porn%20pics.com | black----------pussy.com | black--------booty.com | black-------slut.com | black-------sluts.co | black-------sluts.com | black-----lesbians.com | black-----pussy.com | black---friday.com | black---history.com | black---pussy.com | black---sex.com | black--anal--sex.com | black--anal.com | black--anal.info | black--and--white.com | black--art.com | black--ass.com | black--ass.net | black--ass.us |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+
+Registrant Contact Information:
+NameDomain Administrator
+OrganizationBlackboard Inc.
+Address1111 19th Street NW
+CityWashington
+State / ProvinceDC
+Postal Code20036
+CountryUS
+Phone+1.2024634860
+Fax+1.2024634860
+Email
+
+Administrative Contact Information:
+NameDomain Administrator
+OrganizationBlackboard Inc.
+Address1111 19th Street NW
+CityWashington
+State / ProvinceDC
+Postal Code20036
+CountryUS
+Phone+1.2024634860
+Fax+1.2024634860
+Email
+
+Technical Contact Information:
+NameDomain Administrator
+OrganizationBlackboard Inc.
+Address1111 19th Street NW
+CityWashington
+State / ProvinceDC
+Postal Code20036
+CountryUS
+Phone+1.2024634860
+Fax+1.2024634860
+Email
+
+Information Updated: 2021-01-22 16:19:21
+
+INSTGRAM.COM
+
+Registrar Info
+NameRegistrarSafe, LLC
+Whois Serverwhois.registrarsafe.com
+Referral URLhttps://www.registrarsafe.com
+StatusclientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited
+serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited
+serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited
+Important Dates
+Expires On2027-06-04
+Registered On2004-06-04
+Updated On2018-03-01
+Name Servers
+NS-1349.AWSDNS-40.ORG205.251.197.69
+NS-2016.AWSDNS-60.CO.UK205.251.199.224
+NS-384.AWSDNS-48.COM205.251.193.128
+NS-868.AWSDNS-44.NET205.251.195.100
+Similar Domains
+insta---alamamoonnisar01.com | insta---euamovoce69.com | insta---madhurideokar1208.com | insta---sale.ru | insta---shagunsinghofficial.com | insta---swagjungkook7.com | insta---vaciloesmassara.com | insta--almamoonnisar01.com | insta--charitranaik.com | insta--gram.xyz | insta--jiyanzj.com | insta--niallala.com | insta--nisanuraksoy.com | insta--shagunsinghofficial.com | insta--swagjungkook7.com | insta--swagjungkook7.ru | insta--vip.ru | insta-1.com | insta-1.ru | insta-159.ru |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Registrant Contact Information:
+NameDomain Admin
+OrganizationInstagram LLC
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Email
+
+Administrative Contact Information:
+NameDomain Admin
+OrganizationInstagram LLC
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Email
+
+Technical Contact Information:
+NameDomain Admin
+OrganizationInstagram LLC
+Address1601 Willow Rd
+CityMenlo Park
+State / ProvinceCA
+Postal Code94025
+CountryUS
+Phone+1.6505434800
+Email
+
+Information Updated: 2021-01-22 14:38:35
+
+
+GODADDY.COM
+
+Registrar Info
+NameGoDaddy.com, LLC
+Whois Serverwhois.godaddy.com
+Referral URLhttp://www.godaddy.com
+StatusclientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Important Dates
+Expires On2021-11-01
+Registered On1999-03-02
+Updated On2013-06-02
+Name Servers
+A1-245.AKAM.NET193.108.91.245
+A11-64.AKAM.NET84.53.139.64
+A20-65.AKAM.NET95.100.175.65
+A6-66.AKAM.NET23.211.133.66
+A8-67.AKAM.NET2.16.40.67
+A9-67.AKAM.NET184.85.248.67
+CNS1.GODADDY.COM97.74.96.100
+CNS2.GODADDY.COM173.201.64.100
+Similar Domains
+godad-d-y.biz | godad-d-y.com | godad-d-y.net | godad-dy.biz | godad-dy.com | godad-dy.net | godad-e.com | godad-e.us | godad-y.com | godad.ae | godad.biz | godad.co | godad.co.kr | godad.co.uk | godad.com | godad.ee | godad.eu | godad.ie | godad.info | godad.ir |
+Registrar DataWe will display stored WHOIS data for up to 30 days.
+ refresh
+
+Domain Name: GODADDY.COM
+Registry Domain ID: 4013247_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Updated Date: 2013-06-02T12:16:24Z
+Creation Date: 1999-03-02T05:00:00Z
+Registrar Registration Expiration Date: 2021-11-01T11:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registrant Organization: Go Daddy Operating Company, LLC
+Registrant State/Province: Arizona
+Registrant Country: US
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=GODADDY.COM
+Admin Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=GODADDY.COM
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=GODADDY.COM
+Name Server: CNS1.GODADDY.COM
+Name Server: CNS2.GODADDY.COM
+Name Server: A11-64.AKAM.NET
+Name Server: A1-245.AKAM.NET
+Name Server: A20-65.AKAM.NET
+Name Server: A6-66.AKAM.NET
+Name Server: A8-67.AKAM.NET
+Name Server: A9-67.AKAM.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2021-01-22T08:00:00Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the 
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining 
+information about domain name registration records. Any use of this data for any other purpose 
+is expressly forbidden without the prior written permission of this registrar. By submitting 
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not 
+to use this data to allow, enable, or otherwise support the dissemination or collection of this 
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone, 
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations 
+of any kind, including spam. You further agree not to use this data to enable high volume, automated 
+or robotic electronic processes designed to collect or compile this data for any purpose, including 
+mining this data for your own personal or commercial purposes. Failure to comply with these terms 
+may result in termination of access to the Whois database. These terms may be subject to modification 
+at any time without notice.
+
+
+Information Updated: 2021-01-22 08:23:27
