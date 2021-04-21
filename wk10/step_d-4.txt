@@ -1,0 +1,3 @@
+I see the elements of the array, and I don't see any issues
+
+I believe the sensitive information is the directory names or file names that are shown
