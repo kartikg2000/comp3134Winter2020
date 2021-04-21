@@ -1,0 +1,12 @@
+C:\Users\Karti>ping 23.185.0.2
+
+Pinging 23.185.0.2 with 32 bytes of data:
+Reply from 23.185.0.2: bytes=32 time=55ms TTL=56
+Reply from 23.185.0.2: bytes=32 time=56ms TTL=56
+Reply from 23.185.0.2: bytes=32 time=85ms TTL=56
+Reply from 23.185.0.2: bytes=32 time=80ms TTL=56
+
+Ping statistics for 23.185.0.2:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 55ms, Maximum = 85ms, Average = 69ms

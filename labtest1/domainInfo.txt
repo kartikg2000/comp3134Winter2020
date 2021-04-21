@@ -1,0 +1,14 @@
+Domain registration: CSC Corporate Domains, Inc.
+Registrant Organization: AECOM Technology Corporation
+Registry Domain ID: 964016_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: www.cscprotectsbrands.com
+Updated Date: 2020-09-28 T20:01:20Z
+Creation Date: 1996-07-30 T00:00:00Z
+Registrar Registration Expiration Date: 2023-07-29T04:00:00Z
+
+Hosting Nameservers:
+auth20.ns.wcom.com
+ns1.aecom.com
+ns2.aecom.com
+ns3.aecom.com
