@@ -1,0 +1,54 @@
+command executed nslookup 143.110.253.88
+
+Internet Protocol Version 4, Src: 192.168.0.105, Dst: 143.110.253.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 33
+    Identification: 0x4524 (17700)
+    Flags: 0x00
+    Fragment Offset: 0
+    Time to Live: 128
+    Protocol: UDP (17)
+    Header Checksum: 0xa7cf [validation disabled]
+    [Header checksum status: Unverified]
+    Source Address: 192.168.0.105
+    Destination Address: 143.110.253.88
+User Datagram Protocol, Src Port: 60140, Dst Port: 80
+    Source Port: 60140
+    Destination Port: 80
+    Length: 13
+    Checksum: 0x82ec [unverified]
+    [Checksum Status: Unverified]
+    [Stream index: 141]
+    [Timestamps]
+    UDP payload (5 bytes)
+Data (5 bytes)
+
+
+Internet Protocol Version 4, Src: 192.168.0.105, Dst: 143.110.253.88
+    0100 .... = Version: 4
+    .... 0101 = Header Length: 20 bytes (5)
+    Differentiated Services Field: 0x00 (DSCP: CS0, ECN: Not-ECT)
+    Total Length: 33
+    Identification: 0x4525 (17701)
+    Flags: 0x00
+    Fragment Offset: 0
+    Time to Live: 128
+    Protocol: UDP (17)
+    Header Checksum: 0xa7ce [validation disabled]
+    [Header checksum status: Unverified]
+    Source Address: 192.168.0.105
+    Destination Address: 143.110.253.88
+Ethernet II, Src: LiteonTe_5a:e7:a3 (74:df:bf:5a:e7:a3), Dst: 00:00:00_00:00:02 (00:00:00:00:00:02)
+Internet Protocol Version 4, Src: 192.168.0.105, Dst: 143.110.253.88
+User Datagram Protocol, Src Port: 60140, Dst Port: 80
+Data (5 bytes)
+    Data: 68656c6c6f
+    [Length: 5]
+
+
+
+
+
+
