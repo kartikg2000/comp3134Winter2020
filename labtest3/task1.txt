@@ -1,0 +1,8 @@
+Domain Name : https://www.reuters.com/
+
+Hidden Content
+Name:twitter-site Value:twiterSite
+Name:frame Value:frame
+Name:fName Value: testName
+
+Using Extension Web developer in Chrome
